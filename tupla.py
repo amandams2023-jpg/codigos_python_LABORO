@@ -12,7 +12,11 @@ print(frutas[0])
 for item in frutas:
     print(item)
 
+# Exibir todas as frutas 
+frutas[2] = "Manga" # aqui teremos um erro
+
+print(frutas[2])
+
 # Lista Numerica
 for item in range (0,4):
     print(item)   
-
