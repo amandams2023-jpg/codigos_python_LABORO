@@ -12,3 +12,7 @@ print(frutas[0])
 for item in frutas:
     print(item)
 
+# Lista Numerica
+for item in range (0,4):
+    print(item)   
+
